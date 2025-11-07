@@ -123,3 +123,5 @@ Kaggle Mental Health Datasets
 
 Academic journals on mental health analytics
 
+
+<img width="886" height="497" alt="image" src="https://github.com/user-attachments/assets/e4501191-2cc0-4cb3-8eba-e6109aa8e9e5" />
